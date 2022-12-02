@@ -50,7 +50,7 @@ const handleFilter=(event)=>{
 console.log(data)
   return (
     <div>
-      <h1 className="nav">Masai Country Finder</h1>
+      <h1 className="nav">Country Finder</h1>
       <div style = {{display:"flex",gap:"20px", justifyContent:'center'}}>
         <div  style = {{ display: "flex", gap: "20px", }}>
           <h3>FILTER BY REGION</h3>
